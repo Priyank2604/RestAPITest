@@ -11,6 +11,9 @@ public class Token {
     public static Response response;
     public static String jsonAsString;
 
+
+
+
    @Test
     public String Test1(){
 //        RestAssured.baseURI="http://acuvet-api-dev.us-west-2.elasticbeanstalk.com";
